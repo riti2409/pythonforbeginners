@@ -1,2 +1,2 @@
-# pythonforbeginners
+# Pythonforbeginners
 Python For Beginner
